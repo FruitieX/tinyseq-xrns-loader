@@ -5,6 +5,8 @@ Webpack 3 loader for Renoise XRNS files, which outputs into tinyseq song format
 You probably want to use `raw-loader` with this to inject the result into your js directly.
 (saves space in size limited productions):
 
+`yarn add tinyseq-xrns-loader raw-loader`
+
 Sample webpack config:
 
 ```

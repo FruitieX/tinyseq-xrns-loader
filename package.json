@@ -1,12 +1,12 @@
 {
   "name": "tinyseq-xrns-loader",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "Webpack 3 loader for Renoise XRNS files, which outputs into tinyseq song format",
   "main": "index.js",
   "repository": "https://github.com/FruitieX/tinyseq-xrns-loader",
   "author": "FruitieX",
   "license": "MIT",
   "dependencies": {
-    "tinyseq": "^1.0.0"
+    "tinyseq": "^1.0.3"
   }
 }

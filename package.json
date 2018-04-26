@@ -6,7 +6,7 @@
   "repository": "https://github.com/FruitieX/tinyseq-xrns-loader",
   "author": "FruitieX",
   "license": "MIT",
-  "dependencies": {
-    "tinyseq": "^1.0.3"
+  "peerDependencies": {
+    "tinyseq": "1.x"
   }
 }

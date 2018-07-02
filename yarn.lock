@@ -2,6 +2,3 @@
 # yarn lockfile v1
 
 
-tinyseq@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/tinyseq/-/tinyseq-1.0.0.tgz#6f83b8c24ee6da777a2a87f7385e0ebed0b46f00"
